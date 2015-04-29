@@ -1,5 +1,5 @@
-# Client Side 
-
+# Frontend Web client seed project
+Pretty bare bones with almost no included libraries.
 
 This is just a version of my client javascript/css seed.
 
